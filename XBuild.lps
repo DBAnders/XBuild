@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="XBuild.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="29" Y="223"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\packages\fcl-process\src\process.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="380"/>
+        <CursorPos X="56" Y="404"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="XBuild.xbs"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="131" Column="5" TopLine="116"/>
+      </Position1>
+      <Position2>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="125" Column="5" TopLine="107"/>
+      </Position2>
+      <Position3>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="12" Column="14"/>
+      </Position3>
+      <Position4>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="69" Column="35" TopLine="40"/>
+      </Position4>
+      <Position5>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="199" Column="31" TopLine="178"/>
+      </Position5>
+      <Position6>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="167" Column="27" TopLine="155"/>
+      </Position6>
+      <Position7>
+        <Filename Value="XBuild.lpr"/>
+      </Position7>
+      <Position8>
+        <Filename Value="XBuild.lpr"/>
+        <Caret Line="34" Column="26" TopLine="4"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
